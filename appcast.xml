@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-     xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Polar Updates</title>
-    <link>https://recursive-hq.github.io/polar-releases/</link>
-    <description>Polar release feed</description>
+    <title>Polar</title>
+    <item>
+      <title>Version 0.1.0</title>
+      <sparkle:version>20260330061755</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 29 Mar 2026 20:27:55 -1000</pubDate>
+      <enclosure url="https://github.com/recursive-hq/polar-releases/releases/download/v0.1.0/Polar-0.1.0.dmg"
+                 sparkle:edSignature="jKF/iz/oGdTMrp1mV61LRmHTB17mc6cF4rPEnXaTifJzBW8MQSKq6UjuRD8ZTWjN307dU7eWIf/7wxpOrWoECA=="
+                 length="177902492"
+                 type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
