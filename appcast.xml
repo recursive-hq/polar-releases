@@ -3,14 +3,14 @@
   <channel>
     <title>Polar</title>
     <item>
-      <title>Version 0.1.38</title>
-      <sparkle:version>20260518192840</sparkle:version>
-      <sparkle:shortVersionString>0.1.38</sparkle:shortVersionString>
+      <title>Version 0.1.39</title>
+      <sparkle:version>20260521102905</sparkle:version>
+      <sparkle:shortVersionString>0.1.39</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Mon, 18 May 2026 19:34:09 +0000</pubDate>
-      <enclosure url="https://github.com/recursive-hq/polar-releases/releases/download/v0.1.38/Polar-0.1.38.dmg"
-                 sparkle:edSignature="8bkuYWkEMQfXk5+T7heQN8T/ih65z1h4XF1Kuna1Fonh0o8hSjayRPdhkPZPb0df80bVQbSTfyNney6y8UFsBA=="
-                 length="218794910"
+      <pubDate>Thu, 21 May 2026 10:42:01 +0000</pubDate>
+      <enclosure url="https://github.com/recursive-hq/polar-releases/releases/download/v0.1.39/Polar-0.1.39.dmg"
+                 sparkle:edSignature="pa2spSyZ5ukRIA/3LYnpdewpELi2i+aW9FyjmGP5PsPOcqw8MBwEbjiLiqLymjQ/BxDyDNQycAPl5zIGn9RyCQ=="
+                 length="218946835"
                  type="application/octet-stream" />
     </item>
   </channel>
