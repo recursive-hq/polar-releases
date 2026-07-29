@@ -3,6 +3,16 @@
   <channel>
     <title>Polar</title>
     <item>
+      <title>Version 0.1.72</title>
+      <sparkle:version>20260729061529</sparkle:version>
+      <sparkle:shortVersionString>0.1.72</sparkle:shortVersionString>
+      <pubDate>Wed, 29 Jul 2026 06:15:29 +0000</pubDate>
+      <enclosure url="https://github.com/recursive-hq/polar-releases/releases/download/v0.1.72/Polar-win-0.1.72-setup.exe"
+                 sparkle:edSignature="jM0/Ma49xr7PjexXCX/16LBNacLSAAvzq3wWXGpItTyU1h/eWgntJBJvC/QR2mNY7kmqOe9ZvsXi0QIsDnc0Dg=="
+                 length="242195584"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.71</title>
       <sparkle:version>20260729051047</sparkle:version>
       <sparkle:shortVersionString>0.1.71</sparkle:shortVersionString>
