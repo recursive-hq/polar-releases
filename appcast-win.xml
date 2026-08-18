@@ -4,12 +4,12 @@
     <title>Polar</title>
     <item>
       <title>Version 0.1.81</title>
-      <sparkle:version>20260814193718</sparkle:version>
+      <sparkle:version>20260818053115</sparkle:version>
       <sparkle:shortVersionString>0.1.81</sparkle:shortVersionString>
-      <pubDate>Fri, 14 Aug 2026 19:37:18 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2026 05:31:15 +0000</pubDate>
       <enclosure url="https://github.com/recursive-hq/polar-releases/releases/download/v0.1.81/Polar-win-0.1.81-setup.exe"
-                 sparkle:edSignature="e5T26UGpUxZoRZHfygO7SUFBFuRTgoHd687X3G0Y1I4Hhopam7k8KwPBF58F9OMkQmGH6LGanhdp4TzDlbFeAw=="
-                 length="241491416"
+                 sparkle:edSignature="zhHunlL6bJoac+Fv4Vt6RDqApyeglpmSSmquh9y/574lHF7FOtIULUkEENblkrcpLqHdwN4Yd4lHLj5sbkIvAg=="
+                 length="241716208"
                  type="application/octet-stream" />
     </item>
     <item>
